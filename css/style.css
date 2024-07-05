@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    margin: 5px 5px;
+}
+
+h1{
+    text-align: center;
+}
